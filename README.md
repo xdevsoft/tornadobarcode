@@ -82,4 +82,5 @@ https://www.tornadoweb.org/en/stable/
 - https://docs.reportlab.com/reportlab/userguide/ch1_intro/ 
 - https://docs.reportlab.com/reportlab/barcode/ 
 - https://www.tornadoweb.org/en/stable/
+- https://github.com/xdevsoft/barcodegen
 
